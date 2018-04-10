@@ -6,4 +6,5 @@
 	-file: w3c/fxtf-drafts/filter-effects/Overview.bs
 +org: whatwg
 +org: wicg
-
++org: jfbastien
+	-repo: jfbastien/papers
